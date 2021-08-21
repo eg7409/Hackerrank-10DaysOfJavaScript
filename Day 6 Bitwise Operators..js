@@ -1,3 +1,8 @@
+Objective
+
+Today, we're practicing bitwise operations. Check the attached tutorial for more details.
+
+
 
 function getMaxLessThanK(n, k) {
     let max = 0;
