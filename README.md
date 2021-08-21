@@ -2,3 +2,12 @@
 <br>
 
 # Hackerrank - 10 Days Of JavaScript
+
+
+<br><br>
+
+https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
+
+https://www.hackerrank.com/skills-verification/javascript_basic
+
+https://www.hackerrank.com/skills-verification/javascript_intermediate
